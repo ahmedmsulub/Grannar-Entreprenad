@@ -18,7 +18,7 @@ class Cards extends Component {
                             <CardsUi imgsrc={img1} title="bygg inomhus"/>
                         </div>
                         <div className="col-md-4">
-                            <CardsUi imgsrc={img2} title="bygg utomhus"/>
+                            <CardsUi imgsrc={img2} title="bygg utomhus."/>
                         </div>
                         <div className="col-md-4">
                             <CardsUi imgsrc={img3} title="städning"/>
