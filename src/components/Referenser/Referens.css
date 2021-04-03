@@ -20,15 +20,16 @@
 
 @media screen and (max-width: 766px) {
     .gallerySlider{
+        display: none;
     }
     .cards-body{
-        margin:auto;
-        width:500px;
+        /* margin:auto;
+        width:500px; */
     }
     .the-card {
         /* background-color: red; */
         /* margin-left:50px; */
-        margin:auto;
+        /* margin:auto; */
     }
     
   }
